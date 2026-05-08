@@ -1,0 +1,54 @@
+/* 
+        .sright{
+            display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    gap: 15px;
+        }
+        .wholepage{    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+background-color: rgba(139, 158, 252, 1);}
+.signup{
+    display: flex;
+    justify-content: center;
+   
+    gap: 30px;
+    background-color: rgba(122,147,242,1);
+     padding: 30px 90px;
+   
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.3);
+}
+.sleft{
+        display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+input{padding: 10px 80px 10px 12px;
+    border-radius: 20px;
+    border: none;}
+img{
+    width:15px;
+    padding-right: 10px;
+}
+h2 .sign{
+        font-size: 40px;
+    margin: 5px;
+}
+.sbutton{background-color: black;
+    color: white;
+    text-align: center;
+    width:100%;
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 20px;
+   }
+    .google,.fb{
+       
+    border: 1px solid black;
+    padding: 9px 40px;
+    border-radius: 20px;
+    } */
